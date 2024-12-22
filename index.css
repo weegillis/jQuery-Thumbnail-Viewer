@@ -1,4 +1,5 @@
 #thumbs {
+  width: 92%;
   margin: 1em auto;
 }
 #views {
@@ -7,9 +8,6 @@
   margin: 15px auto;
   padding: 1em 0;
   border: 1px dotted black;
-}
-#thumbs{
-  width: 92%;
 }
 #thumbs img {
   display: inline-block;
