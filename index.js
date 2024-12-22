@@ -1,5 +1,3 @@
-//var jquery = require('jquery');
-
 const main = function() {
   const host = "./";
   const $views = $('#views');
